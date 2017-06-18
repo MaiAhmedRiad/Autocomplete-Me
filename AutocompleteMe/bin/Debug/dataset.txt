@@ -1,0 +1,42 @@
+41
+20,The Dark Knight
+15,Daredevil vs. SpiderMan
+30,The amazing spiderMan
+10,Transformers: Dark of the Moon
+27,The amazing spiderMan 2
+20,Welcome to Dreadville III: Dark of Night 
+10,I was a player
+1,he is a boy
+100,java programs!
+54,how is the weather?
+2,i am well
+19,(the)
+72,another
+0,apple
+19,how are you
+11,how is the weather
+2,how is everything
+45,who are you
+23,who is the ace
+3,hi, girl
+4,General Electric
+11,Harry Potter and the Sorcerer's Stone (2001)
+12,Harry Potter and the Deathly Hallows
+3,American Management Systems
+7,Harry Potter and the Prisoner of Azkaban (the)
+7,Genetics
+5,General Motors
+10,Harry Potter and the Order of the Phoenix (2007)
+6,American Electric Power
+5,General Dynamics And Mechanics
+6,Genes
+2,American Electric Lighting
+10,Harry Potter and the Goblet of Fire (2005)
+20,The Dark Knight
+15,Daredevil vs. SpiderMan
+30,The amazing spiderMan
+10,Transformers: Dark of the Moon
+27,The amazing spiderMan 2
+20,Welcome to Dreadville III: Dark of Night
+39,zoo
+11,ha ha ha
